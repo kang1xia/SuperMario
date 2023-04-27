@@ -1,0 +1,32 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "h:\\epic\\unrealengine\\project\\uecpp\\supermario\\source\\supermario\\coinactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\epic\\unrealengine\\project\\uecpp\\supermario\\intermediate\\build\\win64\\supermarioeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\epic\\unrealengine\\project\\uecpp\\supermario\\intermediate\\build\\win64\\unrealeditor\\development\\supermario\\definitions.supermario.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supermario\\source\\supermario\\coinactor.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supermario\\intermediate\\build\\win64\\unrealeditor\\inc\\supermario\\coinactor.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\paperspritecomponent.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\paperspritecomponent.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\papersprite.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\spriteeditoronlytypes.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\spriteeditoronlytypes.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\public\\slate\\slatetextureatlasinterface.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\slatetextureatlasinterface.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\papersprite.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

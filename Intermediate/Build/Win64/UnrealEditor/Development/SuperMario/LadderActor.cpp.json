@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "h:\\epic\\unrealengine\\project\\uecpp\\supermario\\source\\supermario\\ladderactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\epic\\unrealengine\\project\\uecpp\\supermario\\intermediate\\build\\win64\\supermarioeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\epic\\unrealengine\\project\\uecpp\\supermario\\intermediate\\build\\win64\\unrealeditor\\development\\supermario\\definitions.supermario.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supermario\\source\\supermario\\ladderactor.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supermario\\intermediate\\build\\win64\\unrealeditor\\inc\\supermario\\ladderactor.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\paperspritecomponent.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\paperspritecomponent.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\papersprite.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\spriteeditoronlytypes.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\spriteeditoronlytypes.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\public\\slate\\slatetextureatlasinterface.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\slatetextureatlasinterface.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\papersprite.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

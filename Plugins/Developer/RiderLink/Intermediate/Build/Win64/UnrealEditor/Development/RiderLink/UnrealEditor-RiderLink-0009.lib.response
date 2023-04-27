@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderLink-0009.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Module.RiderLink.cpp.obj"
+"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Default.rc2.res"
+/OUT:"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\UnrealEditor-RiderLink-0009.lib"

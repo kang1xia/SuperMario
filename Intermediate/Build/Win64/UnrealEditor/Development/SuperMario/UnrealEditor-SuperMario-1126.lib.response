@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SuperMario-1126.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Intermediate\Build\Win64\SuperMarioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Intermediate\Build\Win64\UnrealEditor\Development\SuperMario\BP_Mario.cpp.obj"
+"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Intermediate\Build\Win64\UnrealEditor\Development\SuperMario\SuperMario.cpp.obj"
+"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Intermediate\Build\Win64\UnrealEditor\Development\SuperMario\SuperMarioGameModeBase.cpp.obj"
+"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Intermediate\Build\Win64\UnrealEditor\Development\SuperMario\BP_Mario.gen.cpp.obj"
+"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Intermediate\Build\Win64\UnrealEditor\Development\SuperMario\SuperMario.init.gen.cpp.obj"
+"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Intermediate\Build\Win64\UnrealEditor\Development\SuperMario\SuperMarioGameModeBase.gen.cpp.obj"
+"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Intermediate\Build\Win64\UnrealEditor\Development\SuperMario\Default.rc2.res"
+/OUT:"H:\EPIC\UnrealEngine\Project\UECPP\SuperMario\Intermediate\Build\Win64\UnrealEditor\Development\SuperMario\UnrealEditor-SuperMario-1126.lib"

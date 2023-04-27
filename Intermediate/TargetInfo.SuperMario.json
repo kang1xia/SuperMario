@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SuperMario",
+			"Path": "H:\\EPIC\\UnrealEngine\\Project\\UECPP\\SuperMario\\Source\\SuperMario.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SuperMarioEditor",
+			"Path": "H:\\EPIC\\UnrealEngine\\Project\\UECPP\\SuperMario\\Source\\SuperMarioEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
